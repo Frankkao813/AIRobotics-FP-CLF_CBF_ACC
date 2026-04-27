@@ -48,6 +48,8 @@ python acc_gif_production.py --case case2 --dt 0.02 --T 25 --p_sc 1
 python acc_gif_production.py --case case2 --dt 0.02 --T 25 --p_sc 1e-5
 ```
 
+One can also access the simulation result at simulation_result/.
+
 ### Parameters
 
 | Flag | Description | Default |
