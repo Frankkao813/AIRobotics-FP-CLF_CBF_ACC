@@ -1,4 +1,4 @@
-# Adaptive Cruise Control via CLF-CBF Quadratic Programming
+# Utilizing CLF and CBF on Adaptive Cruise Control
 
 A reproducibility study of the Control Lyapunov Function (CLF) and Control 
 Barrier Function (CBF) framework applied to Adaptive Cruise Control (ACC).
