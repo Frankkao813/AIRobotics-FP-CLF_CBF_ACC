@@ -5,6 +5,8 @@ Barrier Function (CBF) framework applied to Adaptive Cruise Control (ACC).
 
 **Report:** [Utilizing CLF and CBF on Adaptive Cruise Control](AI_Robotics_fp.pdf)
 
+**slide:** [Presentation Slides](presentation_slides.pdf)
+
 **Author:** Wei Chien (Franklin) Kao
 
 **Reference Paper:** [Control Barrier Function Based Quadratic Programs with Application to Adaptive Cruise Control](http://ames.caltech.edu/CLF_QP_ACC_final.pdf)  
